@@ -14,17 +14,12 @@
   color: white;
 }
 
+.App-title {
+  font-size: 1.5em;
+}
+
 .App-intro {
   font-size: large;
-  margin-top: 100px;
-}
-
-.inputs-group {
-  margin-top: 60px;
-}
-
-.join-button {
-  margin-left: 50px;
 }
 
 @keyframes App-logo-spin {
